@@ -1,0 +1,14 @@
+C:\Users\2023202060041\Documents\POO\Veiculo02\bin\Debug\net8.0\Veiculo02.exe
+C:\Users\2023202060041\Documents\POO\Veiculo02\bin\Debug\net8.0\Veiculo02.deps.json
+C:\Users\2023202060041\Documents\POO\Veiculo02\bin\Debug\net8.0\Veiculo02.runtimeconfig.json
+C:\Users\2023202060041\Documents\POO\Veiculo02\bin\Debug\net8.0\Veiculo02.dll
+C:\Users\2023202060041\Documents\POO\Veiculo02\bin\Debug\net8.0\Veiculo02.pdb
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.AssemblyInfoInputs.cache
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.AssemblyInfo.cs
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.csproj.CoreCompileInputs.cache
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.dll
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\refint\Veiculo02.dll
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.pdb
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\Veiculo02.genruntimeconfig.cache
+C:\Users\2023202060041\Documents\POO\Veiculo02\obj\Debug\net8.0\ref\Veiculo02.dll
